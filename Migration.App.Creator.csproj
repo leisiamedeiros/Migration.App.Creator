@@ -8,7 +8,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
     <PackAsTool>true</PackAsTool>
-    <PackageId>Migration.App.Creator</PackageId>
+    <PackageId>MCreator.Tool</PackageId>
     <Authors>leisiamedeiros</Authors>
     <PackageDescription>This package is a tool to create migration classes by command!</PackageDescription>
     <RepositoryUrl>https://github.com/leisiamedeiros/Migration.App.Creator</RepositoryUrl>
