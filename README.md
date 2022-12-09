@@ -1,4 +1,6 @@
 ﻿# Migration.App.Creator
+[![.NET](https://github.com/leisiamedeiros/Migration.App.Creator/actions/workflows/dotnet.yml/badge.svg?branch=release)](https://github.com/leisiamedeiros/Migration.App.Creator/actions/workflows/dotnet.yml)
+
 Create migration files with the fluent migration and versioning
 
 ## Usage
@@ -9,6 +11,12 @@ execute the command bellow;
 `$ mcreator MigrationName`
 
 ## Nuget
+
+This package is hosted in [Nuget](https://www.nuget.org/packages/MCreator.Tool)
+
+```bash
+dotnet tool install --global MCreator.Tool --version 1.0.0
+```
 
 ## Installing Locally
 Clone this project, navigate with the command line and runs the commands bellow;
