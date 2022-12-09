@@ -12,6 +12,7 @@
     <Authors>leisiamedeiros</Authors>
     <PackageDescription>This package is a tool to create migration classes by command!</PackageDescription>
     <RepositoryUrl>https://github.com/leisiamedeiros/Migration.App.Creator</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <ToolCommandName>mcreator</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
   </PropertyGroup>
@@ -22,6 +23,7 @@
 
   <ItemGroup>
     <EmbeddedResource Include="Templates\MigrationClass" />
+    <None Include="README.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
 </Project>
