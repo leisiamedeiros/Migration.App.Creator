@@ -12,7 +12,7 @@ execute the command bellow;
 
 ## Nuget
 
-This package is hosted in [Nuget](https://www.nuget.org/packages/MCreator.Tool)
+![Nuget](https://img.shields.io/nuget/v/MCreator.Tool) 
 
 ```bash
 dotnet tool install --global MCreator.Tool --version 1.0.0
