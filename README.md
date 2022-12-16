@@ -1,5 +1,6 @@
 # Migration.App.Creator
 [![.NET](https://github.com/leisiamedeiros/Migration.App.Creator/actions/workflows/dotnet.yml/badge.svg?branch=release)](https://github.com/leisiamedeiros/Migration.App.Creator/actions/workflows/dotnet.yml)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/leisiamedeiros/Migration.App.Creator)](https://github.com/leisiamedeiros/Migration.App.Creator/releases/tag/)
 
 Create migration files with the fluent migration and versioning
 
